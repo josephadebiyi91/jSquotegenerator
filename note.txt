@@ -1,0 +1,17 @@
+//declaring a data type
+// let data: number[] = [1,2,3,4,5];
+// console.log(`${data}`);
+// let data: string[] = ['simple', 'josh', 'ola'];
+// alert(`${data}`);
+// let data: boolean[] = [true,false]
+// alert(`${data}`);
+// let data: any[] = [1, true, 'joseph']
+// alert(`${data}`);
+// let data: (number|string) [] = [1, 'ago'];
+// alert(`${data}`)
+//const car:{name: string, yearOfPro: string, isNew: boolean} = {
+//  name: 'Toyota',
+//yearOfPro: '2022 model',
+// isNew: true,
+//};
+//console.log(`${car.isNew}` `${car}`);
